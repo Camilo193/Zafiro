@@ -36636,13 +36636,13 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 F.uz.prototype={
-L:function(a){return new S.nl(new F.nx("Flutter Demo Home Page",null),"Flutter Demo",X.Ty(null,C.l3,X.Zr()),null)}}
+L:function(a){return new S.nl(new F.nx("Zafiro-Contabilidad electronica",null),"Flutter Demo",X.Ty(null,C.l3,X.Zr()),null)}}
 F.nx.prototype={
 aI:function(){return new F.pK(C.o)}}
 F.pK.prototype={
 D5:function(){this.aF(new F.MA(this))},
 L:function(a){var s=null,r=L.JY(this.a.c,s)
-return new M.oi(new E.lY(r,new P.ai(1/0,56),s),new T.i1(C.aC,s,s,T.Xi(H.b([L.JY("You have pushed the button this many times:",s),L.JY(""+this.d,K.bv(a).y2.d)],t.t),C.nI),s),E.Sv(L.SC(C.tl),!1,this.gD4(),"Increment"),s)}}
+return new M.oi(new E.lY(r,new P.ai(1/0,56),s),new T.i1(C.aC,s,s,T.Xi(H.b([L.JY("Conteo:",s),L.JY(""+this.d,K.bv(a).y2.d)],t.t),C.nI),s),E.Sv(L.SC(C.tl),!1,this.gD4(),"Incremento"),s)}}
 F.MA.prototype={
 $0:function(){++this.a.d},
 $S:0};(function aliases(){var s=H.Aa.prototype
